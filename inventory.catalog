@@ -1,5 +1,5 @@
 %% {ApplicationId,GitPath,DirPAth}
-%%  {"","https://github.com/joq62/.git"},
+%%  {"","https://github.com/joq62/.git"}, 
 
 #{id=>"adder",
 	git_path=>"https://github.com/joq62/adder.git",
