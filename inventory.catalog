@@ -7,9 +7,6 @@
 #{id=>"divi",
 	git_path=>"https://github.com/joq62/divi.git",
 	dir=>"/home/joq62/erlang/dev/}divi"}.
-#{id=>"etcd",
-	git_path=>"https://github.com/joq62/etcd.git",
-	dir=>"/home/joq62/erlang/dev/etcd"}.
 #{id=>"log",
 	git_path=>"https://github.com/joq62/log.git",
 	dir=>"/home/joq62/erlang/dev/log"}.
