@@ -1,5 +1,5 @@
 #{id=>"resource_discovery",
-  application_name=>"rd",
+  application_name=>"resource_discovery",
   vsn=>"0.1.0",
   app=>rd, 
   erl_args=>" ",
