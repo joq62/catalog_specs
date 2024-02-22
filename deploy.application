@@ -1,7 +1,0 @@
-#{id=>"deploy",
-  application_name=>"deploy",
-  vsn=>"0.1.0",
-  app=>deploy, 
-  erl_args=>" ",
-  git=>"https://github.com/joq62/deploy.git"
-}.
