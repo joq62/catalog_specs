@@ -1,0 +1,9 @@
+{application_spec,
+ [
+     {appl_name,"log"},
+     {vsn,"0.1.0"},
+     {app,log}, 
+     {erl_args," "},
+     {git_path,"https://github.com/joq62/log.git"}
+ ]
+}.

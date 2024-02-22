@@ -1,0 +1,7 @@
+#{id=>"worker",
+  application_name=>"worker",
+  vsn=>"0.1.0",
+  app=>worker, 
+  erl_args=>" ",
+  git=>"https://github.com/joq62/worker.git"
+}.

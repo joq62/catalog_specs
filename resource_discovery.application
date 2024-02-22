@@ -1,0 +1,7 @@
+#{id=>"resource_discovery",
+  application_name=>"rd",
+  vsn=>"0.1.0",
+  app=>rd, 
+  erl_args=>" ",
+  git=>"https://github.com/joq62/resource_discovery.git"
+}.

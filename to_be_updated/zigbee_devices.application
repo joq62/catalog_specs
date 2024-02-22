@@ -1,0 +1,9 @@
+{application_spec,
+ [
+     {appl_name,"zigbee_devices"},
+     {vsn,"0.1.0"},
+     {app,zigbee_devices}, 
+     {erl_args," "},
+     {git_path,"https://github.com/joq62/zigbee_devices.git"}
+ ]
+}.

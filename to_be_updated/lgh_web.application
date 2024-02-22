@@ -1,0 +1,9 @@
+{application_spec,
+ [
+     {appl_name,"lgh_web"},
+     {vsn,"0.1.0"},
+     {app,lgh_web}, 
+     {erl_args," "},
+     {git_path,"https://github.com/joq62/lgh_web.git"}
+ ]
+}.

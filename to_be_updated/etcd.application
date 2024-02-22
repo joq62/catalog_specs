@@ -1,0 +1,9 @@
+{application_spec,
+ [
+     {appl_name,"etcd"},
+     {vsn,"0.1.0"},
+     {app,etcd}, 
+     {erl_args," "},
+     {git_path,"https://github.com/joq62/etcd.git"}
+ ]
+}.

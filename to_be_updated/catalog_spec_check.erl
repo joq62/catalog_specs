@@ -9,8 +9,7 @@
 
 
 -define(Dir,".").
--define(FileExt,".application").
--define(MapKeys,[app,application_name,erl_args,git,id,vsn]).
+-define(FileExt,".catalog").
 
 %% --------------------------------------------------------------------
 %% Function: available_hosts()
@@ -25,13 +24,23 @@ start()->
 
 check([])->
     io:format("Success, OK ! ~n");
-check([{ok,[Map]}|T])->
-    io:format("Checking ~p~n",[Map]),
+check([{ok,Info}|T])->
+    io:format("Checking ~p~n",[Info]),
+    ok=check_map(Info),
+   check(T).
 
-    ?MapKeys=lists:sort(maps:keys(Map)),
-    check(T).
-
-   
+check_map([])->
+    ok;    
+check_map([Map|T])->
+    L=[maps:get(id,Map),maps:get(git_path,Map),maps:get(dir,Map)],
+    
+    ok=case lists:member(undefined,L) of
+	  false->
+	       ok;
+	   true ->
+	       {error,[L]}
+       end,
+    check_map(T).
 
 %% --------------------------------------------------------------------
 %% Function: available_hosts()

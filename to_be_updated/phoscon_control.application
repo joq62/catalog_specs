@@ -1,0 +1,9 @@
+{application_spec,
+ [
+     {appl_name,"phoscon_control"},
+     {vsn,"0.1.0"},
+     {app,phoscon_control}, 
+     {erl_args," "},
+     {git_path,"https://github.com/joq62/phoscon_control.git"}
+ ]
+}.

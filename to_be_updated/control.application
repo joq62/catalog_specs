@@ -1,0 +1,7 @@
+#{id=>"controller",
+  application_name=>"controller",
+  vsn=>"0.1.0",
+  app=>controller, 
+  erl_args=>" ",
+  git=>"https://github.com/joq62/controller.git"
+}.
