@@ -1,0 +1,7 @@
+#{id=>"catalog",
+  application_name=>"catalog",
+  vsn=>"0.1.0",
+  app=>catalog, 
+  erl_args=>" ",
+  git=>"https://github.com/joq62/catalog.git"
+}.
