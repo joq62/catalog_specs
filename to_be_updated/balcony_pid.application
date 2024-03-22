@@ -1,9 +1,0 @@
-{application_spec,
- [
-     {appl_name,"balcony_pid"},
-     {vsn,"0.1.0"},
-     {app,balcony_pid}, 
-     {erl_args," "},
-     {git_path,"https://github.com/joq62/balcony_pid.git"}
- ]
-}.

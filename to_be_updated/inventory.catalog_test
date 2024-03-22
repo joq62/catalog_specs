@@ -1,9 +1,0 @@
-%% {ApplicationId,GitPath}
-%%  {"","https://github.com/joq62/.git"},
-
-#{id=>"adder",git_path=>"https://github.com/joq62/adder.git"}.
- {"divi","https://github.com/joq62/divi.git"}.
- {"etcd","https://github.com/joq62/etcd.git"}.
- {"log","https://github.com/joq62/log.git"}.
- {"resource_discovery","https://github.com/joq62/resource_discovery.git"}.
-
