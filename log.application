@@ -1,7 +1,0 @@
-#{id=>"log",
-  application_name=>"log",
-  vsn=>"0.1.0",
-  app=>log, 
-  erl_args=>" ",
-  git=>"https://github.com/joq62/log.git"
-}.
