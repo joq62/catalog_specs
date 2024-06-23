@@ -1,0 +1,12 @@
+#{id=>"adder3",
+  application_name=>"adder3",
+  vsn=>"0.1.0",
+  app=>adder3, 
+  erl_args=>" ",
+  git=>"https://github.com/joq62/adder3.git",
+  target_dir=>"adder3_dir",
+  sname=>"adder3",
+  tar_file=>"adder3.tar.gz",
+  tar_src=>"release/adder3.tar.gz",
+  start_cmd=>"./adder3_dir/bin/adder3 deamon"
+}.
