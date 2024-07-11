@@ -8,5 +8,5 @@
   sname=>"adder3",
   tar_file=>"adder3.tar.gz",
   tar_src=>"release/adder3.tar.gz",
-  start_cmd=>"./adder3_dir/bin/adder3 deamon"
+  start_cmd=>"./adder3_dir/bin/adder3 daemon"
 }.
