@@ -8,5 +8,6 @@
   sname=>"adder3",
   tar_file=>"adder3.tar.gz",
   tar_src=>"adder3/release/adder3.tar.gz",
-  start_cmd=>"./adder3_dir/bin/adder3"
+  start_cmd=>"./adder3_dir/bin/adder3",
+  path_start_file =>"adder3_dir/bin/adder3"
 }.
