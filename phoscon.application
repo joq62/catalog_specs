@@ -1,0 +1,13 @@
+#{id=>"phoscon",
+  application_name=>"phoscon",
+  vsn=>"0.1.0",
+  app=>phoscon, 
+  erl_args=>" ",
+  git=>"https://github.com/joq62/phoscon.git",
+  target_dir=>"phoscon_dir",
+  sname=>"phoscon",
+  tar_file=>"phoscon.tar.gz",
+  tar_src=>"phoscon/release/phoscon.tar.gz",
+  start_cmd=>"./phoscon_dir/bin/phoscon",
+  path_start_file =>"phoscon_dir/bin/phoscon"
+}.
