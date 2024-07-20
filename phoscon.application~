@@ -1,7 +1,0 @@
-#{id=>"phoscon",
-  application_name=>"phoscon",
-  vsn=>"0.1.0",
-  app=>phoscon, 
-  erl_args=>" ",
-  git=>"https://github.com/joq62/phoscon.git"
-}.
