@@ -1,7 +1,0 @@
-#{id=>"adder",
-  application_name=>"adder",
-  vsn=>"0.1.0",
-  app=>adder, 
-  erl_args=>" ",
-  git=>"https://github.com/joq62/adder.git"
-}.

@@ -1,7 +1,0 @@
-#{id=>"kvs",
-  application_name=>"kvs",
-  vsn=>"0.1.0",
-  app=>kvs, 
-  erl_args=>" ",
-  git=>"https://github.com/joq62/kvs.git"
-}.
