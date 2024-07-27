@@ -1,0 +1,13 @@
+#{id=>"zigbee",
+  application_name=>"zigbee",
+  vsn=>"0.1.0",
+  app=>zigbee, 
+  erl_args=>" ",
+  git=>"https://github.com/joq62/zigbee.git",
+  target_dir=>"zigbee_dir",
+  sname=>"zigbee",
+  tar_file=>"zigbee.tar.gz",
+  tar_src=>"zigbee/release/zigbee.tar.gz",
+  start_cmd=>"./zigbee_dir/bin/zigbee",
+  path_start_file =>"zigbee_dir/bin/zigbee"
+}.
