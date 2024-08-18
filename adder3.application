@@ -9,5 +9,5 @@
   tar_file=>"adder3.tar.gz",
   tar_src=>"adder3/release/adder3.tar.gz",
   start_cmd=>"./adder3/_build/default/rel/adder3/bin/adder3",
-  path_start_file =>"adder3_dir/bin/adder3"
+  path_start_file =>"adder3/_build/default/rel/adder3/bin/adder3"
 }.
