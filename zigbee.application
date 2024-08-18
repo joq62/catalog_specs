@@ -8,6 +8,6 @@
   sname=>"zigbee",
   tar_file=>"zigbee.tar.gz",
   tar_src=>"zigbee/release/zigbee.tar.gz",
-  start_cmd=>"./zigbee_dir/bin/zigbee",
-  path_start_file =>"zigbee_dir/bin/zigbee"
+  start_cmd=>"./zigbee/_build/default/rel/zigbee/bin/zigbee",
+  path_start_file =>"zigbee/_build/default/rel/zigbee/bin/zigbee"
 }.
