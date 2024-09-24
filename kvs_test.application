@@ -1,0 +1,10 @@
+#{id=>"kvs_test",
+  nodename=>"kvs_test",         % used to create vm 
+  application_name=>"kvs_test", % used for ?
+  vsn=>"0.1.0",			%  used fore ?
+  app=>kvs_test, 		% ping
+  giturl=>"https://github.com/joq62/kvs_test.git",
+  application_git_dir=>"kvs_test",
+  path_to_exec_file=>"./kvs_test/_build/default/rel/kvs_test/bin",
+  exec_file=>"kvs_test"
+}.

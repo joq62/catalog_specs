@@ -1,0 +1,10 @@
+#{id=>"web_test",
+  nodename=>"web_test",         % used to create vm 
+  application_name=>"web_test", % used for ?
+  vsn=>"0.1.0",			%  used fore ?
+  app=>web_test, 		% ping
+  giturl=>"https://github.com/joq62/web_test.git",
+  application_git_dir=>"web_test",
+  path_to_exec_file=>"./web_test/_build/default/rel/web_test/bin",
+  exec_file=>"web_test"
+}.
